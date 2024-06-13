@@ -29,6 +29,7 @@
 
  f) **Are there specific room types or amenities that are more popular among different customer segments?**
    - Identifying preferences for room types and amenities can inform hotel management decisions regarding room allocation and service offerings.
+
 **4. Dataset Description:**
    The dataset consists of historical hotel booking records for both a city hotel and a resort hotel. It includes information such as booking dates, lead times, length of stay, booking channels, room types, customer demographics, and cancellation status.
 
