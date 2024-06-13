@@ -25,21 +25,13 @@
    - Insights into differences in booking behaviors between city and resort hotels.
    - Actionable recommendations for pricing strategies, marketing campaigns, and resource allocation to optimize hotel revenue and occupancy rates.
 
-**6. Timeline:**
-   - Data Collection and Preprocessing: 2 weeks
-   - Exploratory Data Analysis: 3 weeks
-   - Seasonal Analysis: 2 weeks
-   - Segmentation Analysis: 2 weeks
-   - Predictive Modeling: 4 weeks
-   - Visualization and Reporting: 2 weeks
-
-**7. Team and Resources:**
+**6. Team and Resources:**
    - Data Analyst: Responsible for data cleaning, analysis, and modeling.
    - Domain Expert: Provides industry knowledge and insights to guide analysis.
    - Project Manager: Oversees project execution, timeline adherence, and resource allocation.
    - Software and Tools: Utilize programming languages such as Python or R for analysis, along with data visualization libraries (e.g., matplotlib, seaborn) and machine learning frameworks (e.g., scikit-learn).
 
-**8. Conclusion:**
+**7. Conclusion:**
    This analytics project aims to leverage historical hotel booking data to gain actionable insights into customer behavior and booking patterns. By understanding the factors influencing hotel bookings, businesses can optimize their strategies to improve revenue generation and customer satisfaction.
 
 
