@@ -53,7 +53,3 @@
 
 **8. Conclusion:**
    This analytics project aims to leverage historical hotel booking data to gain actionable insights into customer behavior and booking patterns. By understanding the factors influencing hotel bookings, businesses can optimize their strategies to improve revenue generation and customer satisfaction.
-
-
-
-
