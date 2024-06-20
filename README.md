@@ -1,5 +1,12 @@
 # Project 1: Hotel bookings Analysis
 ## Analytics Project Proposal: Understanding Hotel Booking Patterns
+Powerpoint presentation file = DRAFT Project1-Hotel_Booking.pptx
+Main code to run the file = hotelbookingsAnalysis.ipynb
+CSV Files in Resources =   countries_codes_and_coordinates.csv
+                           hotel_bookings.csv
+                           hotel_bookings_original.csv
+                           hotel_bookings_originall.csv
+                           hotel_bookingsl.csv
 
 **1. Introduction:**
    In today's hospitality industry, understanding customer behavior and booking patterns is crucial for effective business management. This proposal outlines an analytics project aimed at analyzing hotel booking data for both a city hotel and a resort hotel to gain insights into customer preferences, seasonal trends, and factors influencing booking decisions.
